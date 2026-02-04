@@ -10,12 +10,12 @@ Demonstrar a proficiência técnica na gestão de identidades e licenciamento no
 * **Gestão de Licenciamento:** Atribui a licença **Office 365 E5 (sem Teams)** e configurei a localização para Angola.
 * **Controlo de Privilégios:** O utilizador foi mantido como "Utilizador padrão" para garantir a segurança do tenant.
 
-## 3. Resultados Obtidos
-* **Integração no Diretório:** O utilizador foi criado com sucesso e aparece como "Ativo" na consola de administração.
-* **Validação de Inventário:** Confirmei que o licenciamento foi aplicado corretamente, aparecendo na lista global de utilizadores ativos.
-
+## 3. Resultados Obtidos (Êxodo)
+* **Sucesso na Integração:** O utilizador `Cainda Teste23` foi criado com sucesso e aparece como "Ativo" na consola de administração.
+* **Validação de Inventário:** Confirmei que o licenciamento Office 365 E5 foi aplicado corretamente e o utilizador já consta na lista global.
 ## 4. Observações Técnicas
-Durante o processo, tentei realizar a personalização visual (Branding) da organização através da pesquisa de "temas" nas definições, permitindo identificar áreas de melhoria na padronização visual do portal.
+* **Personalização:** Durante o processo, analisei as opções de personalização visual (Branding) nas definições da organização.
+* **Segurança:** Defini a política de alteração de senha no primeiro acesso para garantir a integridade da conta.
 
 ## 5. Conclusão
 Segundo o conhecimento que adquiri neste primeiro desafio do Learnit challenge, validei a minha capacidade técnica de gerir o ciclo de vida de utilizadores no Microsoft 365, assegurando que a infraestrutura está configurada de acordo com as boas práticas de administração de TI.
